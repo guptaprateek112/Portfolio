@@ -200,6 +200,12 @@ img {
   bottom: 0;
   width: 260px;
 } 
+.home__blob
+{
+  fill: white;
+  z-index: -1;
+}
+
 .home__blob-img {
   width: 360px;
  
