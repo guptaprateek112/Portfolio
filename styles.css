@@ -199,11 +199,7 @@ img {
   right: 0;
   bottom: 0;
   width: 260px;
-}
-.home__blob {
-  fill: white;
-  opacity: 0;
-}
+} 
 .home__blob-img {
   width: 360px;
  
